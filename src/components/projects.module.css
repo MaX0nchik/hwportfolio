@@ -1,0 +1,16 @@
+.image_con{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.sizeImage{
+    margin: 20px;
+    width: 250px;
+}
+
+.toolbar{
+    margin-left: 38%;
+}
